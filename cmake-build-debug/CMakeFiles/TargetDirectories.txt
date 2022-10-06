@@ -1,0 +1,3 @@
+C:/Brozyna/cmake-build-debug/CMakeFiles/Brozyna.dir
+C:/Brozyna/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Brozyna/cmake-build-debug/CMakeFiles/rebuild_cache.dir
